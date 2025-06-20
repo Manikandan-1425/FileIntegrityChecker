@@ -76,4 +76,8 @@ New files (not previously hashed)
 
 🏁 Conclusion
 This task is essential for anyone beginning their journey in cybersecurity or software development. It introduces core security concepts like data integrity, cryptographic functions, and system monitoring. The Python-based File Integrity Checker you build will not only fulfill the internship requirement but also serve as a strong portfolio project that demonstrates your understanding of practical security implementations
-OUTPUT:
+
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/4661f056-fb26-4b02-9116-1aebe9a32b62)
